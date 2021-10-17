@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Commenti per Fech The Ferret	</title>
+	Commenti per Play Fech!	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Un nuovo sito targato WordPress</description>
+	<description>Fast and loud Ferret game</description>
 	<lastBuildDate>Sun, 17 Oct 2021 17:37:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Commenti su Ciao mondo! di Un commentatore di WordPress		</title>
-		<link>/2021/10/17/ciao-mondo/#comment-1</link>
+		<link>/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Sun, 17 Oct 2021 17:37:30 +0000</pubDate>
