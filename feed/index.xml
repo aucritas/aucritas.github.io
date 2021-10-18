@@ -8,36 +8,24 @@
 	>
 
 <channel>
-	<title>Play Fech!</title>
+	<title>Fech The Ferret!</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Fast and loud Ferret game</description>
-	<lastBuildDate>Sun, 17 Oct 2021 17:37:30 +0000</lastBuildDate>
-	<language>it-IT</language>
+	<description>Fast and loud Ferret adventure</description>
+	<lastBuildDate>Mon, 18 Oct 2021 22:48:00 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>Ciao mondo!</title>
-		<link>/ciao-mondo/</link>
-					<comments>/ciao-mondo/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 17 Oct 2021 17:37:30 +0000</pubDate>
-				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e quindi inizia a scrivere!]]></description>
-										<content:encoded><![CDATA[
-<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e quindi inizia a scrivere!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/ciao-mondo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-fech-discord-icon-32x32.png</url>
+	<title>Fech The Ferret!</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
