@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://playfe.ch/sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://playfe.ch/</loc>
-<lastmod>2023-02-20T10:04:21+01:00</lastmod>
+<lastmod>2023-10-21T00:32:00+02:00</lastmod>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/Fech_logo_white_compressed-300x141.webp]]></image:loc>
-<image:caption><![CDATA[logo of the game Fech The Ferret]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/run-screenshot-1024x576.webp]]></image:loc>
-<image:caption><![CDATA[Fech running through a colorful forest]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/2021-08-23-1024x576.webp]]></image:loc>
-<image:caption><![CDATA[Fech running in a neon-coloured dungeon]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/fech-dressed_compressed-300x300.webp]]></image:loc>
-<image:caption><![CDATA[Fech standing up dressed]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/raoulwb_avatar-150x150.webp]]></image:loc>
-<image:caption><![CDATA[RaoulWB, creator of the game Fech The Ferret]]></image:caption>
-</image:image>
-<image:image>
-<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/dramis-avatar-150x150.jpg]]></image:loc>
-<image:caption><![CDATA[a colorful profile picture of the 2D artist]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/wishdream-avatar-150x150.jpg]]></image:loc>
-<image:caption><![CDATA[furry profile picture of our 3D artist]]></image:caption>
+</image:image>
+<image:image>
+<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/dramis-avatar-150x150.jpg]]></image:loc>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2021/10/gabriel-avatar-150x150.jpg]]></image:loc>
-<image:caption><![CDATA[The face of Gabriel, level designer on the game]]></image:caption>
 </image:image>
 <image:image>
-<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2023/02/mando-avatar-150x150.jpg]]></image:loc>
+<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2023/10/Determined-Bun-1-150x150.jpg]]></image:loc>
+</image:image>
+<image:image>
+<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2023/10/Veri_Jeans_icon-150x150.jpg]]></image:loc>
+</image:image>
+<image:image>
+<image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2023/04/ironicsoap-150x150.jpg]]></image:loc>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/2023/02/cat-avatar-150x150.jpg]]></image:loc>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/http://https://playfe.ch/wp-content/uploads/elementor/thumbs/aucritas-e1650107681175-png431wqktxvlmwxetk0bkogekdbu9iq1jm9ypivb4.png]]></image:loc>
-<image:title><![CDATA[aucritas]]></image:title>
-<image:caption><![CDATA[aucritas]]></image:caption>
 </image:image>
 <image:image>
 <image:loc><![CDATA[https://playfe.ch/wp-content/uploads/2022/07/playfech-featured.jpg]]></image:loc>
-<image:title><![CDATA[playfech featured]]></image:title>
-<image:caption><![CDATA[Fech, the furry ferret protagonist, running in a lush colorful environment]]></image:caption>
 </image:image></url>
 <url>
 <loc>https://raoulwb.itch.io/fech-the-ferret</loc>
